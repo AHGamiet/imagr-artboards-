@@ -9,7 +9,7 @@
 
   ## More info
 
-  - Website: [thehardedge.art](https://thehardedge.art)
+  - Website: [thehardedge.art](https://www.thehardedge.art/imagr-artboards/)
   - Contact: hello@thehardedge.art
   - Publisher: The Hard Edge Studio Ltd
 
